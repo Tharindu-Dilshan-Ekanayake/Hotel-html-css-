@@ -1,0 +1,73 @@
+
+
+#logo
+{
+   padding: 10px;
+   margin: auto;
+  
+   
+}
+#logo img
+{
+    width: 100px;
+    float: left;
+}
+#name
+{
+    margin: 2px;
+    padding: 2px;
+    margin-left: 120px;
+   
+}
+#name h1
+{
+    font-family: "ROBO",'Times New Roman', Times, serif;
+    color: #010a59;
+    display: inline-block;
+    
+    
+    
+
+}
+#sri
+{
+    
+    display: inline-block;
+    
+    
+}
+#sri h1
+{
+    font-size: smaller;
+}
+#login
+{
+    display: inline-block;
+    float: right;
+}
+#login h1
+{
+    font-family: "berlin sans fb",'Times New Roman', 'Times New Roman', Times, serif;
+    font-size: x-large;
+    margin-right: 30px;
+}
+#book
+{
+    display:inline-block;
+    float: right;
+}
+#book h1
+{
+    font-family: "berlin sans fb",'Times New Roman', 'Times New Roman', Times, serif;
+    font-size: x-large;
+    
+    margin-right: 10px;
+}
+
+
+footer
+{
+    background-color: gray;
+    padding: 3px;
+    
+}

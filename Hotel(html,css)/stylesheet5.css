@@ -1,0 +1,32 @@
+#text h1
+{
+	text-align: center;
+	color: blue;
+	 font-family: "berlin sans fb",'Times New Roman', 'Times New Roman', Times, serif;
+}
+
+
+.button1
+{
+	border: none;
+	color: white;
+	padding: 16px 48px;
+	text-align: center;
+	
+	font-size: 16px;
+	margin: 4px 2px;
+	transition-duration: 0.4s;
+	cursor: pointer;
+
+	background-color: white;
+	color: blue;
+	border: 2px solid #008CBA;
+	position:relative ;
+	left:42%;
+	border-radius: 20px;
+}
+.button1:hover
+{
+	background-color: #008CBA;
+	color: white;
+}
